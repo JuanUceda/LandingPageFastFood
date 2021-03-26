@@ -51,7 +51,7 @@ header article figure a img { width: auto; height: 90px; display: block; margin:
 header article figure a:hover { transform: scale(1.05); transition: all 0.3s ease-in; }
 header article figure a:hover img { transition: all 0.3s ease-in; }
 
-header article nav { width: 412px; height: 50px; margin: 25px 0; float: right; position: relative; }
+header article nav { width: 500px; height: 50px; margin: 25px 0; float: right; position: relative; }
 header article nav a { width: auto; height: auto; margin: 0; float: left; position: relative; display: block; color: #8c0c0c; text-decoration: none; font-size: 0.95em; line-height: 1em; font-weight: 500; padding: 17.5px 15px 8px; text-transform: uppercase; letter-spacing: 0.08em; border-bottom: solid 2px #fff; transition: all 0.3s ease-in; }
 header article nav a:hover { color: #000; border-bottom: solid 2px #8c0c0c; transition: all 0.3s ease-in; }
 
